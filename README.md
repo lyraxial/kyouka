@@ -1,9 +1,9 @@
-# Kyouka - YouTube Downloader and Media Player
+# Kyouka -Video Downloader and Media Player
 
-Kyouka is a command-line tool for downloading YouTube videos and playing media files.
+Kyouka is a command-line tool for downloading videos and playing media files. It can download any video from every site yt dl supports.
 
 ## Features
-- Download YouTube videos as MP4
+- Download videos as MP4
 - Download audio as high-quality MP3
 - Play media files with different player options
 - Rename and manage downloaded files
@@ -82,4 +82,5 @@ git clone https://github.com/lyraxial/kyouka.git
 cd kyouka
 pip install .[full]  # For full features
 ```
+
 
