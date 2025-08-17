@@ -10,11 +10,11 @@ Kyouka is a command-line tool for downloading YouTube videos and playing media f
 
 ## Installation
 
-### Basic Installation (audio only)
+### Basic Installation 
 ```bash
 pip install kyouka
 ```
-Full Installation (with video support)
+Full Installation
 ```bash
 pip install kyouka[full]
 ```
@@ -82,3 +82,4 @@ git clone https://github.com/lyraxial/kyouka.git
 cd kyouka
 pip install .[full]  # For full features
 ```
+
